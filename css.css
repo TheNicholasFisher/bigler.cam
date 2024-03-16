@@ -38,26 +38,26 @@ html {
 .video{
     margin: auto;
     
-    width: 90%;
+    width: 98%;
     max-width: 1280px;
-    height: 46vw;
+    height: 50vw;
     max-height: 640px;
 }
 
 .iSuckAtiframe{
     position: absolute;
     z-index: 3;
-    width: 90%;
+    width: 98%;
     max-width: 1280px;
-    height: 46vw;
+    height: 50vw;
     max-height: 640px;
     margin: auto;
 }
 
 iframe{
-    width: 90%;
+    width: 98%;
     max-width: 1280px;
-    height: 46vw;
+    height: 50vw;
     max-height: 640px;
     margin: auto;
     display:block;
