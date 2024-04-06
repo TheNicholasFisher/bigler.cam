@@ -115,7 +115,7 @@ h3 a:hover{
 
 .contact a{
     color: gray;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .contact a:hover{
