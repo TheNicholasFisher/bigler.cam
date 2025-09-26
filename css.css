@@ -35,6 +35,15 @@ html {
     font-size: 20px
 }
 
+.top a{
+    color: rgb(151, 151, 151);
+    text-decoration: none;
+}
+
+.top a:hover{
+    text-decoration: underline;
+}
+
 .video{
     margin: auto;
     
@@ -109,13 +118,13 @@ h3 a{
 }
 
 h3 a:hover{
-    color: gray;
+    color: rgb(170, 170, 170);
 }
 
 
 .contact a{
-    color: gray;
-    text-decoration: underline;
+    color: rgb(170, 170, 170);
+    text-decoration: none;
 }
 
 .contact a:hover{

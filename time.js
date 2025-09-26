@@ -1,6 +1,6 @@
 window.onload = function() {
-    // Month Day, Year Hour:Minute:Second, id-of-element-container
-    countUpFromTime("Nov 17, 2023 12:40:21", 'countup1'); // ****** Change this line!
+    
+    countUpFromTime("Aug 30, 2025 12:40:21", 'countup1');
   };
   function countUpFromTime(countFrom, id) {
     countFrom = new Date(countFrom).getTime();
@@ -27,3 +27,6 @@ window.onload = function() {
     clearTimeout(countUpFromTime.interval);
     countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
   }
+
+
+  //idek bro i dont know js
